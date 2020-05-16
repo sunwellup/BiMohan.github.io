@@ -1,2 +1,2 @@
-<embed src="https://sunwellup/BiMohan.github.io/BiMohan_CV/CV_BiMohan.pdf" type="application/pdf" />
+<a href="//github.com/sunwellup/BiMohan.github.io/raw/master/BiMohan_CV/CV_BiMohan.pdf">Test PDF</a>
 
