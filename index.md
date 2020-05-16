@@ -1,2 +1,1 @@
-<a href="//github.com/sunwellup/BiMohan.github.io/raw/master/BiMohan_CV/CV_BiMohan.pdf">Test PDF</a>
-
+<a href="sunwellup/BiMohan.github.io/BiMohan_CV/CV_BiMohan.pdf" target="_blank">PDF.</a>
