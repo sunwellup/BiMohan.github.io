@@ -1,1 +1,1 @@
-https://sunwellup.BiMohan.github.io/BiMohan_CV/CV-BiMohan.pdf
+https://sunwellup/BiMohan.github.io/BiMohan_CV/CV-BiMohan.pdf
